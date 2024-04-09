@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    const url = 'http://localhost:3000/films';
+   const url = 'https://api.npoint.io/f8d1be198a18712d3f29/films/';
     const listHolder = document.getElementById('films');
     const buyTicketBtn = document.getElementById('buy-ticket');
 
